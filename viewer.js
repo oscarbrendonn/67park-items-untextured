@@ -9,7 +9,7 @@ const renderer=new T.WebGLRenderer({antialias:true,alpha:true});renderer.setPixe
 const scene=new T.Scene(),camera=new T.PerspectiveCamera(35,1,.001,10000),controls=new OrbitControls(camera,renderer.domElement);controls.enablePan=false;
 scene.add(new T.HemisphereLight(0xffffff,0x98a5a2,2));const light=new T.DirectionalLight(0xffffff,2);light.position.set(3,5,4);scene.add(light);
 const draco=new DRACOLoader().setDecoderPath('./vendor/addons/libs/draco/gltf/'),loader=new GLTFLoader().setDRACOLoader(draco).setMeshoptDecoder(MeshoptDecoder);
-const items=await(await fetch('./items.json?v=black-shirt-1')).json();items.forEach((x,i)=>select.add(new Option(x.name,i)));let active,serial=0,effect;
+const items=await(await fetch('./items.json?v=black-shirt-67-2')).json();items.forEach((x,i)=>select.add(new Option(x.name,i)));let active,serial=0,effect;
 async function show(){
  const id=++serial,item=items[select.value||0];status.textContent='Loading…';
  try{

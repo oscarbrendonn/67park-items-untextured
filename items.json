@@ -1,72 +1,16 @@
 [
-  {
-    "name": "67park Flower",
-    "file": "models/67park-flower.glb",
-    "sourceSha256": "40b59d4d78263903b26ac4ed6fe228be631dbadcb285ce330106d7a1ccf22f6e"
-  },
-  {
-    "name": "67park Mix & Match Shoes",
-    "file": "models/67park-mix-match-shoes.glb",
-    "sourceSha256": "6cd7404fe076533f98ccb52918afcc9bf330bd84179650d4492ea2376aa06f5e"
-  },
-  {
-    "name": "67park Cloud Boots",
-    "file": "models/67park-cloud-boots.glb",
-    "sourceSha256": "46fea4cd376e01bc2b07dfaadaa2d705b6dd57c3d627a23e25586abe181ad006"
-  },
-  {
-    "name": "67park Candy Steps",
-    "file": "models/67park-candy-steps.glb",
-    "sourceSha256": "e2c0652708cf3346648e18eb15792129e26b061b951178b44838f4e9c4a8b517"
-  },
-  {
-    "name": "67park Wings",
-    "file": "models/67park-wings.glb",
-    "sourceSha256": "56d2a4993f79ce143ba8f2bf4e6e35bfbb0ce6834b3f50404f61b6a3cf181236"
-  },
-  {
-    "name": "67park Backpack",
-    "file": "models/67park-backpack.glb",
-    "sourceSha256": "24ce7b2b9c84af328d536775ac2f34714bd6e0c41655fa1d7544d5398d8aedd1"
-  },
-  {
-    "name": "67park Sweater",
-    "file": "models/67park-sweater.glb",
-    "sourceSha256": "0e900379b908f82d4711731be37fd0fc937fa9b4b940bc80868ab5adf61d44a0"
-  },
-  {
-    "name": "67park Cap",
-    "file": "models/67park-cap.glb",
-    "sourceSha256": "70a73e3b39eed2f512d7c1969865f5c924bcfeedd4fae67dd1441fb293749a4d"
-  },
-  {
-    "name": "67park Crown",
-    "file": "models/67park-crown.glb",
-    "sourceSha256": "72c65246d1cb289457b5d97b0ffef76ad11e205c5657b4387b790790bfb58b19"
-  },
-  {
-    "name": "67park Glasses",
-    "file": "models/67park-glasses.glb",
-    "sourceSha256": "00b1b5e2cb3294466a693c583be0bf869560b316265c3380195a82755bbc0782"
-  },
-  {
-    "name": "67park Skateboard logo",
-    "file": "models/67park-skateboard-logo.glb",
-    "sourceSha256": "3460851b7c09c2692d2315b3c8ded9e0719ccd47586612238834126d05916fed"
-  },
-  {
-    "name": "67park Skateboard neon",
-    "file": "models/67park-skateboard-neon.glb",
-    "sourceSha256": "75cd49ab8dca387e53ca2680b668089f4497b2ec7d0c4695f77135fb3c6d98b0"
-  },
-  {
-    "name": "67park Skateboard klasik",
-    "file": "models/67park-skateboard-klasik.glb",
-    "sourceSha256": "851a3b4473d099d888bd63a3f69e12123a49f4a96485c7698ce97521f05d2d5f"
-  },
-  {
-    "name": "67park Skateboard retro",
-    "file": "models/67park-skateboard-retro.glb",
-    "sourceSha256": "6d376d110618ff46a788401dc0280bfb928566bc52aff479ac13cd1e098c161e"
-  }
+ {"name":"67park T-shirt","file":"models/67park-t-shirt.glb"},
+ {"name":"67park Shoes","file":"models/67park-cloud-boots.glb"},
+ {"name":"67park Backpack","file":"models/67park-backpack.glb"},
+ {"name":"67park Glasses","file":"models/67park-glasses.glb"},
+ {"name":"67park Cap","file":"models/67park-cap.glb"},
+ {"name":"67park Held flower","file":"models/67park-flower.glb"},
+ {"name":"67park Skateboard","file":"models/67park-skateboard-logo.glb"},
+ {"name":"67park Power - sparkles","effect":"pwr-stars"},
+ {"name":"67park Power - particles","effect":"pwr-hearts"},
+ {"name":"67park Power - sparks","effect":"pwr-bolts"},
+ {"name":"67park Glow - rose","effect":"vibe-pink"},
+ {"name":"67park Glow - mint","effect":"vibe-mint"},
+ {"name":"67park Glow - gold","effect":"vibe-gold"},
+ {"name":"67park Glow - sky","effect":"vibe-sky"}
 ]
